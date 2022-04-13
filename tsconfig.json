@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib" : ["DOM", "ES6"],
+    "rootDir": "src",
+    "outDir": "jsfiles",
+    
+    "target": "es6",
+  }
+}
